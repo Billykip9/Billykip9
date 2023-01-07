@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Billykip9
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTMl,CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Billy Kiplagat
+- 👀 I’m a Front-End Developer. 
+- 🌱 I’m skilled with HTML5, CSS3 and Javascript.
+- 💞️ I’m looking forward to expand my knowledge and experience.
 - 📫 How to reach me billykiplagat9@gmail.com 
 
 <!---
